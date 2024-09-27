@@ -14,7 +14,7 @@ author: Ioxoi Perez
 
 #dEFINE SITE URL
 url: https://ioxoiperez27.github.io/
-baseurl: /paf-514-example-website
+baseurl:
 
 
 # --- List of links in the navigation bar --- #
