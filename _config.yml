@@ -12,6 +12,11 @@ description: Join me on a ride through my travel misadventures—where the snack
 # Your name to show in the footer
 author: Ioxoi Perez
 
+#dEFINE SITE URL
+url: https://ioxoiperez27.github.io/
+baseurl: /paf-514-example-website
+
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
