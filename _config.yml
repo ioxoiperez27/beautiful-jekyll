@@ -6,8 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: Beautiful Jekyll
-
+title: Ioxoi's Activities
+# Short description of your site
+description: Join me on a ride through my travel misadventures—where the snacks are questionable, the selfies are awkward, and every destination is just one hilarious mishap away from a great story!
 # Your name to show in the footer
 author: Ioxoi Perez
 
@@ -39,18 +40,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ioxoi.perez@school.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+ # github: daattali
+ # twitter: daattali
+ # patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
-#  reddit: yourname
+  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+  snapchat: zperez4272
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Join me on a ride through my travel misadventures—where the snacks are questionable, the selfies are awkward, and every destination is just one hilarious mishap away from a great story!
 
 # --- General options --- #
 
@@ -99,13 +100,13 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFFFFF"
+navbar-col: "#3DC6CE"
 navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#97A1FF"
+text-col: "#1B585B"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#4964F4"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
